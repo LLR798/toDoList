@@ -11,9 +11,9 @@
 <br>
 
 <p align="center">
-  <img alt="sorteador" src="https://github.com/LLR798/Sorteador/blob/main/preview/Screenshot1.png?raw=true" width="33%">
-  <img alt="sorteador" src="https://github.com/LLR798/Sorteador/blob/main/preview/Screenshot2.png?raw=true" width="33%">
-  <img alt="sorteador" src="https://github.com/LLR798/Sorteador/blob/main/preview/Screenshot3.png?raw=true" width="33%">
+  <img alt="sorteador" src="https://github.com/LLR798/Sorteador/blob/main/previews/Screenshot1.png?raw=true" width="33%">
+  <img alt="sorteador" src="https://github.com/LLR798/Sorteador/blob/main/previews/Screenshot2.png?raw=true" width="33%">
+  <img alt="sorteador" src="https://github.com/LLR798/Sorteador/blob/main/previews/Screenshot3.png?raw=true" width="33%">
 </p>
 
 
