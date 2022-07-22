@@ -33,6 +33,4 @@ Frameworks
 ## 💻 Projeto
 
 Fiz um app de lista de tarefas, para exercitar os novos conceitos aprendidos no flutter. O projeto permite criar uma nova tarefa,pressionar uma tarefa específica, para apagar somente ela, ou excluir todas as tarefas. Espero que gostem.<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>
 </p>
